@@ -14,7 +14,7 @@ function Hero() {
             color='blue-gray'
             className='mb-4 lg:text-5xl !leading-tight text-3xl'
           >
-            Welcome to my Web <br /> Development Portofolio!
+            Welcome to my Site <br /> Denys Ivanin
           </Typography>
           <Typography
             placeholder='Typography'
@@ -60,7 +60,7 @@ function Hero() {
           width={1024}
           height={1024}
           alt='team work'
-          src='/image/image-7.svg'
+          src='/image/ivanin.jpg'
           className='h-[36rem] w-full rounded-xl object-cover'
         />
       </div>
